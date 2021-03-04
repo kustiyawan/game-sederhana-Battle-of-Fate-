@@ -1,2 +1,2 @@
-# game-sederhana-Battle-of-Fate-
-sebuah projek game sederhana dengan bahasa pemrograman C++ dengan code editor menggunakan Codeblock
+# game-sederhana-Battle-of-Fate
+source code ini boleh untuk di download asal untuk kepentingan penugasan
